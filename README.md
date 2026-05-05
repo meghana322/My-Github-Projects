@@ -1,2 +1,4 @@
 # My-Github-Projects
-This is my first Github project
+This is my first Github Repository.
+<br>
+Author-Meghana Palavalasa
