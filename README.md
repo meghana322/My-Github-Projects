@@ -1,5 +1,5 @@
-# My-Github-Projects
-This is my first Github Repository.
+# Resistance Calculator
+This is my first Github Repository Project.
 <br>
 Author-Meghana jayaram
 
